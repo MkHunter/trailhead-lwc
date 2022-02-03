@@ -15,12 +15,13 @@ A repo containing the code concerning to a bunch of modules related to LWC from 
 
 ## Change List
 
-| Metadata Entity | Object                                 | Change Type | Details |   |
-|-----------------|----------------------------------------|-------------|---------|---|
-| App             | Trailhead LWC                          | Create      |         |   |
-| Tab             | Welcome                                | Create      |         |   |
-| PermissionSet   | trailheadlwc                           | Create      |         |   |
-
+| Metadata Entity | Object                                 | Change Type | Details |
+|-----------------|----------------------------------------|-------------|---------|
+| App             | Trailhead LWC                          | Create      |         |
+| Tab             | Welcome                                | Create      |         |
+| PermissionSet   | trailheadlwc                           | Create      | Allow access to the Trailhead LWC App        |
+| AuraComponent   | welcome                                | Create      |         |
+| LWC             | heloWorld                              | Create      |         |
 ## Installation instructions
 
 You may install this app by using:
@@ -52,10 +53,8 @@ You may install this app by using:
 
 6. Open the scratch org:
     ```
-    sfdx force:org:open
+    sfdx force:org:open -p /lightning/n/Welcome
     ```
-
-7.  Select **Trailhead LWC** in the App Launcher
 
 # Deployment Tasks
 ## Pre-installation
