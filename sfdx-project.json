@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+      {
+          "path": "force-app",
+          "default": true,
+          "package": "trailheadlwc",
+          "versionNumber": "0.0.1.NEXT",
+          "versionName": "Summer '22"
+      }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "45.0"
+}
