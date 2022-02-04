@@ -22,6 +22,12 @@ A repo containing the code concerning to a bunch of modules related to LWC from 
 | PermissionSet   | trailheadlwc                           | Create      | Allow access to the Trailhead LWC App        |
 | AuraComponent   | welcome                                | Create      |         |
 | LWC             | heloWorld                              | Create      |         |
+| AuraComponent   | AccountLocator                         | Create      |         |
+| AuraComponent   | AccountList                            | Create      |         |
+| AuraComponent   | AccountMap                             | Create      |         |
+| AuraComponent   | AccountSearch                          | Create      |         |
+| AuraComponent   | AccountsLoaded                         | Create      |         |
+| Class   | AccountSearchController                        | Create      |         |
 ## Installation instructions
 
 You may install this app by using:
