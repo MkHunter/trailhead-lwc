@@ -3,6 +3,8 @@
       <div class="slds-m-around_medium">
         <p>Hello, {greeting}!</p>
         <lightning-input label="Name" value={greeting} onchange={changeHandler}></lightning-input>
+        <c-source-code source="helloWorld" type="lwc" slot="footer">
+        </c-source-code>
       </div>
     </lightning-card>
   </template>

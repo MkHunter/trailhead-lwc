@@ -22,6 +22,8 @@ A repo containing the code concerning to a bunch of modules related to LWC from 
 | PermissionSet   | trailheadlwc                           | Create      | Allow access to the Trailhead LWC App        |
 | AuraComponent   | welcome                                | Create      |         |
 | LWC             | heloWorld                              | Create      |         |
+| LWC             | sourceCode                             | Create      | LWC Link to repo source code        |
+| LWC             | myFirstWebComponent                    | Create      |         |
 | AuraComponent   | AccountLocator                         | Create      |         |
 | AuraComponent   | AccountList                            | Create      |         |
 | AuraComponent   | AccountMap                             | Create      |         |
