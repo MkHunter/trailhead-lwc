@@ -1,0 +1,14 @@
+<!-- bike.html -->
+<template>
+  <lightning-card title="ContactInformation" icon-name="custom:custom14">
+    <div class="slds-m-around_medium">
+      <div>Name: {bike.name}</div>
+      <div>Description: {bike.description}</div>
+      <div>Category: {bike.category}</div>
+      <div>Material: {bike.material}</div>
+      <div>Price: {bike.price}</div>
+      <div><img src={bike.pictureUrl}/></div>
+      <c-source-code source="bike" type="lwc" slot="footer"></c-source-code>
+    </div>
+  </lightning-card>
+</template>
