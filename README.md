@@ -24,6 +24,8 @@ A repo containing the code concerning to a bunch of modules related to LWC from 
 | LWC             | heloWorld                              | Create      |         |
 | LWC             | sourceCode                             | Create      | LWC Link to repo source code        |
 | LWC             | myFirstWebComponent                    | Create      |         |
+| LWC             | app & bike                              | Create      | @api parent to child demostration        |
+| LWC             | selector > detail > list > tile > data | Create      | Nested LWC demostration        |
 | AuraComponent   | AccountLocator                         | Create      |         |
 | AuraComponent   | AccountList                            | Create      |         |
 | AuraComponent   | AccountMap                             | Create      |         |

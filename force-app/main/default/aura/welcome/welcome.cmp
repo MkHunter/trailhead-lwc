@@ -11,6 +11,11 @@
             <c:myFirstWebComponent/>
         </lightning:layoutItem>
         <lightning:layoutItem size="12"
+        mediumDeviceSize="12"
+        padding="around-small">
+            <c:selector/>
+        </lightning:layoutItem>
+        <lightning:layoutItem size="12"
                               mediumDeviceSize="6"
                               padding="around-small">
             <c:app/>
